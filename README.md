@@ -21,5 +21,5 @@ Inserting, searching, and removing nodes in binary search trees.
 Converting arrays to binary search trees and AVL trees.
 Analyzing time complexities of different operations.
 # Authors
-Ackson Mutuma <br>
-Reagan Chita
+Ackson Mutuma <br>  https://github.com/Ackson94/
+Reagan Chita https://github.com/reagan-chita
